@@ -1,0 +1,22 @@
+.receipt-container {
+  width: 50%;
+  margin: auto;
+  border-top: 2px solid purple;
+  border-bottom: 4px solid purple;
+  border-right: 4px solid purple;
+  border-left: 4px solid purple;
+}
+
+.receipt-container ul {
+  list-style-type: none;
+}
+
+.receipt-container ul li {
+  margin: 5px 0;
+}
+
+.cost,
+.cost-amount {
+  font-weight: bold;
+  color: red;
+}
